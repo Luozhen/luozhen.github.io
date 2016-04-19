@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Cherish 自顾自谈"
 date:   2016-04-19 20:17:19 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+  建立的第一个成功的博客，花了很大的力气熟悉`ruby`的控制台命令，尤其是在安装`jekyll`上，这里也不得不提一下我国对网络的限制了。在`gem install jekyll`命令之前，需要更改下载`jekyll`的网址到`https://ruby.taobao.org`。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Jekyll 同样也提供强大的代码片段显示:
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight java %}
+void startPrint() {
+  System.out.print("Hello world~");
+  return ;
+}
+//prints 'Hello world' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+可以查看 [Jekyll docs][jekyll-docs] 相关文档获得更多`jekyll`帮助。 所有其相关的错误或特点请查看 [Jekyll’s GitHub repo][jekyll-gh]。如果你还有问题，可以查看`jekyll`论坛 [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

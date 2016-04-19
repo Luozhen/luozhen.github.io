@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   价值空间，愿在世为人，珍惜珍重
 baseurl: / # the subpath of your site, e.g. /blog
 url: "http://luozhen.github.io" # the base hostname & protocol for your site
-twitter_username: not to be kowed
+twitter_username: not to be kowned
 github_username:  Luozhen
 highlighter: rouge
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cherish 自顾自谈"
+title:  "Cherish 博客观"
 date:   2016-04-19 20:17:19 +0800
 categories: jekyll update
 ---

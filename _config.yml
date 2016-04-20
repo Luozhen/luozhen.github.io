@@ -10,10 +10,10 @@ title: Cherish's blog
 email: lzh768.earth@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   时间是什么，让其在这里发生...
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: luozhen
-github_username:  luozhen
+baseurl: "https://github.com/luozhen" # the subpath of your site, e.g. /blog
+url: "https://luozhen.github.io" # the base hostname & protocol for your site
+twitter_username: lzh768
+github_username:  Luozhen
 
 # Build settings
 markdown: kramdown

@@ -4,7 +4,7 @@ title:  "Cherish 博客观"
 date:   2016-04-19 20:17:19 +0800
 categories: jekyll update
 ---
-  建立的第一个成功的博客，花了很大的力气熟悉`ruby`的控制台命令，尤其是在安装`jekyll`上，这里也不得不提一下我国对网络的限制了。在`gem install jekyll`命令之前，需要更改下载`jekyll`的网址到`https://ruby.taobao.org`。
+  这是我建立的第一个成功的博客，其中花了很大的力气熟悉`ruby`的控制台命令，尤其是在安装`jekyll`上（这里不得不赞美一下我国对网络的限制给我带来的舒心了）。需要注意的是在`gem install jekyll`命令之前，需要更改下载`jekyll`的网址到`https://ruby.taobao.org`，如果这时`gem install jekyll`命令报证书无效，这就需要重新下载相关证书。
 
 Jekyll 同样也提供强大的代码片段显示:
 

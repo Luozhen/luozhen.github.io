@@ -15,9 +15,5 @@ url: "https://github.com/luozhen" # the base hostname & protocol for your site
 twitter_username: lzh768
 github_username: Luozhen
 
-
 # Build settings
-markdown: redcarpet
-highlighter: rouge
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
+markdown: kramdown
